@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1613082120 source:c:\users\dell\onedrive - mci4me.at\programmieren\projektarbeit2.0\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
